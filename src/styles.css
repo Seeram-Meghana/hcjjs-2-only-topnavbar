@@ -29,8 +29,8 @@ i {
 }
 
 nav {
-    background: #e7e1e0;
-    box-shadow: 0 5px 15px #36352f;
+    background: #f7f7f7;
+    box-shadow: 0 5px 15px #92832e;
 }
 
 .nav-main {
@@ -64,7 +64,7 @@ a {
 }
 
 .menu a {
-    color: #fff;
+    color: #637df1;
     font-weight: bolder;
     font-size: 1.2rem;
     letter-spacing: 0.1rem;
@@ -75,8 +75,8 @@ a {
 }
 
 .menu a:hover {
-    background: #e2bab2;
-    color: #470c02;
+    background: #d6c6c3;
+    color: #201c1b;
 }
 
 .welcome-msg {
